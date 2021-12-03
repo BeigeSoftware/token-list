@@ -94,6 +94,22 @@
     },
     {
       "chainId": 101,
+      "address": "58ZbjhaoLdJztHQKtidMen4NbaGrbjDE4sZgLmqvSTH6",
+      "symbol": "BC",
+      "name": "BeigeCoin",
+      "decimals": 9,
+      "logoURI": "https://static.wixstatic.com/media/24a3e1_a04e9fd1e1ed4166aaa1c0d196a8a9a1~mv2.png/v1/fill/w_35,h_83,al_c,q_85,usm_0.66_1.00_0.01/beigelofo.webp",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+
+      }
+    },
+
+    {
+      "chainId": 101,
       "address": "HCXXtXPasqcF4BVsrPQPfHMQPUofoCbDbjsTUANFSHDR",
       "symbol": "MONKE",
       "name": "MONKE TOKEN",
